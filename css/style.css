@@ -544,13 +544,7 @@ body {
     font-weight: 700;
     text-align: center;
   }
-
-  .service-title {
-    font-size: 14px;
-    font-weight: 400;
-    text-align: center;
-  }
-
+  
   .service:nth-child(19),
   :nth-child(20) {
     transform: translateX(-100px);
